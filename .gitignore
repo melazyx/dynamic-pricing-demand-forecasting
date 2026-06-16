@@ -1,0 +1,25 @@
+# Python
+backend/.venv/
+__pycache__/
+*.pyc
+
+# Model artifacts besar (opsional)
+*.h5
+*.keras
+
+# Node
+frontend/node_modules/
+
+# Build
+frontend/dist/
+
+# Environment
+.env
+.env.local
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
